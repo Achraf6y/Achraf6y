@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I’m currently a student in data science with a broad interest in all fields of computer science. My main passion lies in AI and data science, where I aim to specialize and explore innovative solutions to complex problems. This profile is a showcase of my projects, experiments, and collaborations as I deepen my knowledge and contribute to exciting developments in these fields. Let’s connect and build the future of technology together!
 
-![Uploading Cat_eating_chips_through_windows7_wallpaper.gif…]()
+![Cat_eating_chips_through_windows7_wallpaper](https://github.com/user-attachments/assets/72dfc17c-f000-401e-a690-e29b48dd0d23)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/achraf-moghalli/) 
